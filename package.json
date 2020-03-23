@@ -2,7 +2,7 @@
   "private": false,
   "name": "ym-winston-utility",
   "version": "0.1.0",
-  "description": "utility of winston logger.",
+  "description": "utility for winston logger.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
