@@ -1,0 +1,31 @@
+{
+  "private": false,
+  "name": "ym-winston-utility",
+  "version": "0.1.0",
+  "description": "utility of winston logger.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuukimiyo/ym-winston-utility.git"
+  },
+  "keywords": [
+    "winston"
+  ],
+  "author": "yuuki miyoshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuukimiyo/ym-winston-utility/issues"
+  },
+  "homepage": "https://github.com/yuukimiyo/ym-winston-utility#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "dependencies": {
+    "@google-cloud/logging-winston": "^3.0.6",
+    "winston": "^3.2.1",
+    "winston-slack-webhook-transport": "^1.2.1"
+  }
+}
